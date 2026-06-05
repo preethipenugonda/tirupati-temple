@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ---
 
-## 🚀 My DevOps Project - Tirupati Temple
+## Tirupati Temple CI/CD Project Updated
 
 🛕 This is a React-based DevOps project deployed on AWS EC2 using Jenkins CI/CD pipeline.
 
