@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
+
+## 🚀 My DevOps Project - Tirupati Temple
+
+🛕 This is a React-based DevOps project deployed on AWS EC2 using Jenkins CI/CD pipeline.
+
+### 🌐 Live Project
+http://13.127.136.153:5173
+
+### 🧰 Tech Stack
+- React JS
+- Jenkins (CI/CD)
+- AWS EC2
+- Git & GitHub
+- Node.js
+
+### 🔥 CI/CD Flow
+GitHub → Jenkins → EC2 → Auto Build → Live Website
+
+### 🛕 Preview
+![Tirupati Temple](https://upload.wikimedia.org/wikipedia/commons/5/5c/Tirumala_Venkateswara_Temple.jpg)
